@@ -1,3 +1,8 @@
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Data+Analyst+%7C+Problem+Solver;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;Turning+raw+data+into+real+insights;Lifelong+learner+with+a+passion+for+analytics;&center=true&width=500&height=50&color=00BFFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Rahil Shaikh
 
 ## 🔍 About Me
