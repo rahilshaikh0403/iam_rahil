@@ -10,7 +10,11 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahil_Shaikh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahilshaikh144)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahil_Shaikh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahilshaikh144)  
+[![GitHub](https://img.shields.io/badge/GitHub-rahilshaikh0403-181717?style=for-the-badge&logo=github)](https://github.com/rahilshaikh0403)  
+[![Gmail](https://img.shields.io/badge/Gmail-rahilshaikh0403@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahilshaikh0403@gmail.com)  
+
 
 ---
 
@@ -41,4 +45,4 @@
 ---
 
 ## 📊 Contribution Graph
-![Rahil's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahilshaikh0403&theme=github-compact)
+![Rahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahilshaikh0403&theme=github-compact)
