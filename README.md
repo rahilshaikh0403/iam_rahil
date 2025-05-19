@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+Aspiring+Data+Analyst+%7C;%F0%9F%93%8A+Skilled+in+Python,+SQL,+Power+BI,+Pandas;%F0%9F%93%88+Data+driven+decisions+for+real+impact;%F0%9F%8E%AF+Always+learning,+always+growing!;&center=true&vCenter=true&width=650&height=60&color=FFFFFF&size=24&pause=1200&shadow=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+Aspiring+Data+Analyst;%F0%9F%93%8A+Skilled+in+Python,+SQL,+Power+BI,+Pandas;%F0%9F%93%88+Data+driven+decisions+for+real+impact;%F0%9F%8E%AF+Always+learning,+always+growing!;&center=true&vCenter=true&width=650&height=60&color=FFFFFF&size=24&pause=1200&shadow=000000" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Rahil Shaikh
