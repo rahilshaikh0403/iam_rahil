@@ -32,7 +32,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ---
 
